@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/URL-Shortener.React/static/css/main.e01d6f79.css",
+    "main.js": "/URL-Shortener.React/static/js/main.b66ab85c.js",
+    "index.html": "/URL-Shortener.React/index.html",
+    "main.e01d6f79.css.map": "/URL-Shortener.React/static/css/main.e01d6f79.css.map",
+    "main.b66ab85c.js.map": "/URL-Shortener.React/static/js/main.b66ab85c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01d6f79.css",
+    "static/js/main.b66ab85c.js"
+  ]
+}
